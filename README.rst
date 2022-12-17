@@ -4,7 +4,8 @@ Water Level System Demo RPI
 Overview
 ********
 
-A simple system that uses a non-contact liquid level sensor to transition between multiple videos. Buttons were implemented to control the operation of the system (e.g. start or stop water pump & shutting down the Raspberry Pi).
+A simple system that uses a non-contact liquid level sensor to transition between multiple videos. 
+Buttons were implemented to control the operation of the system (e.g. start or stop water pump & shutting down the Raspberry Pi).
 
 Requirements
 ************
