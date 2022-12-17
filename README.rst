@@ -15,6 +15,8 @@ Requirements
 
 2 x LED
 
+2 x 200ohm Resistor
+
 2 x Non-contact liquid level sensor
 
 2 x Relay
